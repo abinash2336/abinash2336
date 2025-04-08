@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Technical Skills  
-
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,c++,github)
 **Programming Languages:**  
 - Python, C, C++, Java, JavaScript, PHP  
 
