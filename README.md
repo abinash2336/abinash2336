@@ -61,5 +61,5 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abinash2336&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abinash2336&theme=dracula)
 
