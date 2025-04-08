@@ -58,3 +58,8 @@
 
 ⭐️ _“Learning never exhausts the mind.”_  
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas!
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abinash2336&theme=onedark)
+
